@@ -9,7 +9,7 @@ namespace GitTest
     {
         public  void Test()
         {
-
+            int a = 225;
         }
     }
 }
