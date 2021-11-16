@@ -10,6 +10,7 @@ namespace GitTest
         public  void Test()
         {
             int a = 225;
+            string test = "alireza";
         }
     }
 }
