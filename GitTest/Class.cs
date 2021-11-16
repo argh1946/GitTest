@@ -7,5 +7,9 @@ namespace GitTest
 {
     public class Class
     {
+        public  void Test()
+        {
+
+        }
     }
 }
